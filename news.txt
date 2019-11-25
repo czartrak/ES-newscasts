@@ -88,10 +88,10 @@ news "navy news program"
 			"A large pirate force was observed to be amassing in the North. More updates as they come."
 			
 # Visual suggestion: A holoscreen or television of some type. All images are currently placeholder
-#News content: News on the economy such as trade, stock, etc.
+#News content: News on stock market, not actually pertaining to in-game eventsa.
 news "syndicate stock news"
 	location
-		government "Republic"
+		government "Syndicate"
 	name
 		word
 			"Syndicate Economic Report"
@@ -140,3 +140,37 @@ news "syndicate stock news"
 			"250 "
 		word
 			"points."
+			
+# Visual suggestion: A holoscreen or television of some type. All images are currently placeholder
+#News content: News on the general economy, not actually pertaining to in-game events.
+news "syndicate general news"
+	location
+		government "Syndicate"
+	name
+		word
+			"Syndicate Economic Report"
+	portrait
+		portrait/human02
+		portrait/human04
+		portrait/human06
+		portrait/human10
+		portrait/human15
+		portrait/human17
+		portrait/human31
+		portrait/human58
+		portrait/human63
+		portrait/human72
+		portrait/human73
+		portrait/human76
+		portrait/human79
+		portrait/human98
+		portrait/human112
+	message
+		word
+			"Syndicate Shipyards indicates an increase in sales this quarter."
+			"Demand for Deep Sky's heavy laser has increased with pirate attacks on the rise."
+			"Lionheart sees more sales as prospective miners purchase Headhunters."
+			"Syndicate Shipyards is seeing a loss of profit from Energy Blasters as they fall out of favor."
+			"Kraz CYbernetics is grabbing profits from Deep Sky with their production of the Beam Laser."
+			"Production error leads to lost profits for Lionheart."
+			"Deep Sky's shipment of Heavy Lasers to the Navy was intercepted by Pirates. Funds were retracted by the Navy"
