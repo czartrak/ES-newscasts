@@ -53,39 +53,6 @@ news "general news program"
 			"This is GNN"
 			"The news that affects you. We are GNN."
 			"GNN, news that you need."
-
-# Visual suggestion: A holoscreen or television of some type. All images are currently placeholder
-#News content: News on the Navy and military action involving them.
-news "navy news program"
-	location
-		government "Republic"
-	name
-		word
-			"Navy News"
-	portrait
-		portrait/human02
-		portrait/human04
-		portrait/human06
-		portrait/human10
-		portrait/human15
-		portrait/human17
-		portrait/human31
-		portrait/human58
-		portrait/human63
-		portrait/human72
-		portrait/human73
-		portrait/human76
-		portrait/human79
-		portrait/human98
-		portrait/human112
-	message
-		word
-			"A pirate force was crushed in the north. No casualties sustained."
-			"A small pirate force was repelled on the way to Sol. Assumed to have originated in the North."
-			"Reinforcements were sent to the North today to ensure the safety of the citizens of the galaxy."
-			"Navy recruitment drive will be in progress for this month. Take the exam on Geminus to see if you qualify!"
-			"A small Gunboat patrol discovered a drug running operation earlier this week. Operation was raided and shut down."
-			"A large pirate force was observed to be amassing in the North. More updates as they come."
 			
 # Visual suggestion: A holoscreen or television of some type. All images are currently placeholder
 #News content: News on stock market, not actually pertaining to in-game eventsa.
